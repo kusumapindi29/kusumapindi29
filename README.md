@@ -1,16 +1,22 @@
-## Hi there 👋
+## 👋 Hi, I'm Kusuma
 
-<!--
-**kusumapindi29/kusumapindi29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Backend Engineer | Python | Performance & GenAI
 
-Here are some ideas to get you started:
+* Backend developer at Accenture
+* Focused on **scalable systems, performance optimization, and GenAI integrations**
+* Improved data processing performance by **85%** using ClickHouse
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+
+Python | Flask | FastAPI | ClickHouse | SQL | Airflow | Java
+
+---
+
+### 📂 Projects
+
+* 🔹 ClickHouse-based Data Processing Optimization (65% performance improvement)
+* 🔹 GenAI API Integration & Response Optimization
+* 🔹 Scalable Task Management API (FastAPI, async processing, clean architecture)
+
