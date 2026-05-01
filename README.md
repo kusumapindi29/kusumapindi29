@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Kusuma
 
-🚀 Backend Engineer | Python | Performance & GenAI
+🚀 Backend Engineer | GenAI | Python | LLM Applications | RAG & Agents | Scalable Backend Systems | Flask/FastAPI
 
 * Backend developer at Accenture
 * Focused on **scalable systems, performance optimization, and GenAI integrations**
