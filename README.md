@@ -11,7 +11,7 @@ Currently focused on:
 I’m also writing **beginner-friendly** articles on LLMs and modern AI systems — focused on explaining concepts with practical engineering intuition instead of hype.
 
 Each article is paired with GitHub code examples and small practical implementations.
-📖 Medium: [Kusuma on Medium](https://medium.com/@kusuma.pindi29/llm-fundamentals-59c97188f759)
+📖 Medium: [LLM For Beginners](https://medium.com/@kusuma.pindi29/llm-fundamentals-59c97188f759)
 
 ---
 
