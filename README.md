@@ -26,6 +26,7 @@ LLMs | GenAI | RAG | Multi-Agent Systems | AI Agents | Prompt Engineering | Pyth
 - Beginner-friendly LLM & GenAI articles
 - Practical code examples for AI concepts
 - RAG and agent architecture experiments
+- Multi Agent LangGraph project.
 - Backend engineering patterns for AI systems
 - Production-focused learning notes and implementations
 
@@ -33,6 +34,7 @@ LLMs | GenAI | RAG | Multi-Agent Systems | AI Agents | Prompt Engineering | Pyth
 
 ### 📂 Featured Work
 
+- 🔹 **DataVibe** — multi-agent, human-in-the-loop data migration pipeline (LangGraph + LLMs)
 - 🔹 GenAI engineering articles + practical GitHub implementations
 - 🔹 Multi-agent architecture experiments
 - 🔹 ClickHouse-based optimization for large-scale data workflows
